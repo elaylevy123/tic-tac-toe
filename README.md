@@ -1,4 +1,4 @@
 # tic-tac-toe
-Xs and Os is a paper-and-pencil game for two players,
+Xs and Os is a paper-and-pencil game.
 X and O, who take turns marking the spaces in a 3×3 grid. 
 The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
